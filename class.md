@@ -1,4 +1,4 @@
-Kristian	
-Germany	
+Julius	
+usa
 Meta Front-End course
 
